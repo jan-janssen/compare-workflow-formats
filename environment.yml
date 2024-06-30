@@ -6,3 +6,4 @@ dependencies:
 - dask
 - snakemake
 - jobflow
+- pyiron_workflow
